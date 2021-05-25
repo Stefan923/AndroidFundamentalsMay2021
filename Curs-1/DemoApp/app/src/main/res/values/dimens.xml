@@ -5,4 +5,6 @@
     <dimen name="image_margin">10dp</dimen>
     <dimen name="small_margin">5dp</dimen>
     <dimen name="bar_height">1dp</dimen>
+    <dimen name="space_128">128dp</dimen>
+    <dimen name="space_64">64dp</dimen>
 </resources>
